@@ -1,0 +1,11 @@
+.dcsd-header {
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+.dcsd-nav {
+  position: relative;
+  display: flex;
+  justify-content: space-around;
+  flex-flow: column nowrap;
+}
